@@ -1,2 +1,3 @@
-# stanCode
-These are all the projects created during my learnings in stanCode SC101.
+## *stanCode* Projets
+Hello there!
+This repository holds my programming projects done during the period of stanCode SC101 course.
